@@ -1,0 +1,254 @@
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration:none;
+    color: inherit;
+}
+body{
+    font-family: 'Inter', sans-serif;
+    font-size: 100%;
+    overflow-x: hidden;
+    .main2{
+        width: 100%;
+        overflow-x: hidden;
+        .main2_section1{
+            min-height: 80vh;
+            // border: 1px solid yellow;
+            background-image: url(../image/26.jpg);
+            background-size: cover;
+            background-position: 100% center;
+            background-repeat: no-repeat;
+            .main2_div1{
+                // border: 1px solid red;
+                height: 100%;
+                .main2_div2{
+                    h1{
+                        font-size: 75px;
+                        font-weight: 600;
+                        font-family: 'Playfair Display', serif;
+                        color: rgba(172, 170, 170, 0.932);
+                        // padding-bottom: 30px;
+                        margin-top: 200px;
+                    }
+                }
+            }
+        }
+        .main2_section2{
+            // border: 1px solid red;
+            min-height: 85vh;
+            background-image: url(../image/5.jpg);
+            background-size: cover;
+            // background-position: 100% center;
+            background-repeat: no-repeat;
+            .main2_div3{
+                //  border: 1px solid greenyellow;
+                 padding-top: 100px;
+                .main2_div4{
+                    h6{
+                        font-size: 20px;
+                        color: rgba(190,147,89,1);
+                    }
+                    h2{
+                        font-size: 75px;
+                        font-weight: 600;
+                        font-family: 'Playfair Display', serif;
+                        color: rgba(172, 170, 170, 0.932);
+                        padding-bottom: 30px;
+                    }
+                    p{
+                        color: whitesmoke;
+                    }
+                    .main2_div5{
+                        border: 2px solid rgba(190,147,89,1);
+                        width: fit-content;
+                        height: 60px;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        transition: .4s;
+                        margin-top: 40px;
+                        a{
+                            color: rgba(190,147,89,1);
+                            padding: 30px;
+                            font-size: 17px;
+                            font-weight: 600;
+                            transition: .4s;
+                        }
+                        &:hover{
+                            a{
+                                color: aliceblue;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .main2_section3{
+            // border: 1px solid red;
+            min-height: 110vh;
+            background-color: white;
+            .main2_div6{
+                // border: 1px solid greenyellow;
+                 padding-top: 100px;
+                .main2_div7{
+                    h6{
+                        font-size: 24px;
+                        color: rgba(190,147,89,1);
+                    }
+                    h2{
+                        font-size: 75px;
+                        font-weight: 600;
+                        font-family: 'Playfair Display', serif;
+                        color: rgba(172, 170, 170, 0.932);
+                        padding-bottom: 30px;
+                    }
+                }
+                .main2_div8{
+                     //  border: 1px solid yellow;
+                     padding-top: 20px;
+                     margin-left: 0;
+                     padding-right: 0; 
+                    .main2_div9{
+                        margin-left: 0;
+                        margin-right: 0;
+                        // border: 1px solid black;
+                        padding: 20px;
+                        p{
+                            color: black;
+                            cursor: pointer;
+                            padding-top: 20px;
+                        }
+                        figure{
+                            width: 100%;
+                            cursor: pointer;
+                            img{
+                                width: 30%;
+                            }
+                        }
+                    }    
+                        
+                }
+            }
+        }
+        .main2_section4{
+            // border: 1px solid palevioletred;
+            min-height: 100vh;
+            height: auto;
+            background-image: url(../image/25.webp);
+            background-attachment: fixed;
+            background-size: cover;
+            // background-position: 100% center;
+            background-repeat: no-repeat;
+            height: 400px;
+            .main2_div10{
+                // border: 1px solid purple;
+                
+                .main2_div11{
+                    // border: 1px solid yellow;
+                    padding-top: 60px;
+                    margin-left: 0;
+                    margin-right: 0;
+                    .main2_div12{
+                        // border: 1px solid green;
+                        margin-left: 0;
+                        margin-right: 0;
+                        
+                       
+                         figure{
+                            width: 100%;
+                            cursor: pointer;
+                            // border: 1px solid blueviolet;
+                            padding-right: 0;
+                            padding-left: 0;
+                            img{
+                            width: 100%;
+                          } 
+                        }
+                    .main2_div13{
+                        // border: 1px solid ghostwhite;
+                        margin-top: 50px;
+                          div{
+                              border: 2px solid rgba(190,147,89,1);
+                              width: fit-content;
+                              height: 60px;
+                              transition: .4s;
+                                a{
+                                 color: rgba(190,147,89,1);
+                                 padding: 20px;
+                                 font-size: 14px;
+                                 font-weight: 600;
+                                 transition: .4s;
+                              }
+                                &:hover{
+                                  a{
+                                   color: aliceblue;
+                                  }
+                            }
+                          }
+                        
+                      }
+                }
+                .main2_div14{
+                    // border: 1px solid white;
+                    padding-top: 45px;
+                    figure{
+                        width: 100%;
+                        cursor: pointer;
+                        // border: 1px solid blueviolet;
+                        padding-right: 0;
+                        padding-left: 0;
+                        img{
+                        width: 50%;
+                      } 
+                    }
+                    .main2_div15{
+                        // margin-top: -60px;
+                        // border: 1px solid red;
+                        ul{
+                            li{
+                                font-size: 18px;
+                                padding: 15px 0;
+                                a{
+                                    color: rgba(245, 245, 245, 0.856);
+                                    transition: .4s;
+                                    &:hover{
+                                        color: rgba(190,147,89,1);
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .main2_div16{
+                       h6{
+                        color: rgba(190,147,89,1);
+                        font-size: 14px;
+                        font-weight: 600;
+                       }
+                    }
+                    .main2_div17{
+                        // border: 1px solid blue;
+                        padding-top: 30px;
+                        ul{
+                            li{
+                                color: rgba(255, 255, 255, 0.938);
+                                a{
+                                  font-size: 20px;
+                                  transition: .3s;
+                                  &:hover{
+                                    color: rgba(190,147,89,1);
+                                  }
+                                }
+                            }
+                        }
+                        
+                    }
+                    
+                }
+                
+                
+            }
+        }
+    }
+    }
+}

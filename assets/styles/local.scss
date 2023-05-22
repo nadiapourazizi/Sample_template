@@ -1,0 +1,171 @@
+@media screen and (max-width:576px){
+    .main_div2{
+        img{
+            width: 70%;
+        }
+    }
+    .main_div4{
+        h1{
+            font-size: 70px;
+        }
+    }
+    .main_div10{
+        figure{
+            width: 100%;
+            cursor: pointer;
+            img{
+                width: 15%;
+            } 
+        }
+        .div2{
+            width: 100%;
+            img{
+                width: 20%;
+            }
+        }
+    }
+
+
+    .main_div13{
+        h2{
+            font-size: 40px;
+        }
+    }
+
+    .main_div15{
+        figure{
+            width: 100%;
+            cursor: pointer;
+            img{
+                width: 70%;
+            }
+        }
+    }
+
+    .main_div22{
+        h2{
+            font-size: 50px;
+        }
+    }
+    .main_div28{
+        h2{
+            font-size: 50px;
+        }
+    }
+        
+    
+}
+@media screen and (min-width:577px){
+    .main_div4{
+        h1{
+            font-size: 70px;
+        }
+    }
+
+    .main_div10{
+        figure{
+            width: 100%;
+            cursor: pointer;
+            img{
+                width: 15%;
+            } 
+        }
+        .div2{
+            width: 100%;
+            img{
+                width: 20%;
+            }
+        }
+    }
+    .main_div13{
+        h2{
+            font-size: 40px;
+        }
+    }
+
+    .main_div15{
+        figure{
+            width: 100%;
+            cursor: pointer;
+            img{
+                width: 70%;
+            }
+        }
+    }
+    .main_div22{
+        h2{
+            font-size: 50px;
+        }
+    }
+    .main_div28{
+        h2{
+            font-size: 50px;
+        }
+    }
+    
+}
+@media screen and (min-width:768px){
+    .main_div2{
+        img{
+            width: 35%;
+        }
+    }
+    .main_div4{
+        h1{
+            font-size: 100px;
+        }
+    }
+
+    
+    
+    
+}
+@media screen and (min-width:992px){
+    .main_div10{
+        figure{
+            width: 100%;
+            cursor: pointer;
+            img{
+                width: 20%;
+            }
+            .div2{
+                width: 100%;
+                img{
+                    width: 25%;
+                }
+            } 
+        }
+    }
+
+    .main_div13{
+        h2{
+            font-size: 75px;
+        }
+    }
+
+    .main_div15{
+        figure{
+            width: 100%;
+            cursor: pointer;
+            img{
+                width: 100%;
+            }
+        }
+    }
+    .main_div22{
+        h2{
+            font-size: 50px;
+        }
+    }
+    .main_div28{
+        h2{
+            font-size: 75px;
+        }
+    }
+}
+@media screen and (min-width:1200px){
+    
+}
+@media screen and (min-width:1400px){
+
+}

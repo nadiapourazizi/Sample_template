@@ -1,0 +1,231 @@
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 100%;
+  overflow-x: hidden;
+}
+body .main6 {
+  width: 100%;
+  overflow-x: hidden;
+}
+body .main6 .main6_section1 {
+  min-height: 80vh;
+  background-image: url(../image/52.jpg);
+  background-size: cover;
+  background-position: 100% center;
+  background-repeat: no-repeat;
+}
+body .main6 .main6_section1 .main6_div1 {
+  height: 100%;
+}
+body .main6 .main6_section1 .main6_div1 .main6_div2 h1 {
+  font-size: 75px;
+  font-weight: 600;
+  font-family: "Playfair Display", serif;
+  color: rgba(172, 170, 170, 0.932);
+  margin-top: 200px;
+}
+body .main6 .main6_section2 {
+  min-height: 180vh;
+  background-image: url(../image/5.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body .main6 .main6_section2 .main6_div3 {
+  padding-top: 100px;
+}
+body .main6 .main6_section2 .main6_div3 .main6_div4 h6 {
+  font-size: 20px;
+  color: rgb(190, 147, 89);
+}
+body .main6 .main6_section2 .main6_div3 .main6_div4 h2 {
+  font-size: 75px;
+  font-weight: 600;
+  font-family: "Playfair Display", serif;
+  color: rgba(172, 170, 170, 0.932);
+  padding-bottom: 30px;
+}
+body .main6 .main6_section2 .main6_div3 .main6_div5 {
+  margin-left: 0;
+  padding-right: 0;
+}
+body .main6 .main6_section2 .main6_div3 .main6_div5 .main6_div6 figure {
+  width: 100%;
+  cursor: pointer;
+  padding-right: 0;
+  padding-left: 0;
+}
+body .main6 .main6_section2 .main6_div3 .main6_div5 .main6_div6 figure img {
+  width: 93%;
+  opacity: 0.9;
+  transition: 0.4s;
+}
+body .main6 .main6_section2 .main6_div3 .main6_div5 .main6_div6 figure img:hover {
+  opacity: 1;
+}
+body .main6 .main6_section2 .main6_div3 .main6_div5 .main6_div6 h5 {
+  padding-top: 10px;
+  font-family: "Playfair Display", serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: rgb(190, 147, 89);
+}
+body .main6 .main6_section2 .main6_div3 .main6_div5 .main6_div6 p {
+  color: rgba(216, 209, 209, 0.425);
+  cursor: pointer;
+  font-size: 17px;
+}
+body .main6 .main6_section3 {
+  border-bottom: 4px solid rgb(190, 147, 89);
+  min-height: 90vh;
+  background-color: white;
+}
+body .main6 .main6_section3 .main6_div7 {
+  padding-top: 100px;
+}
+body .main6 .main6_section3 .main6_div7 .main6_div8 h6 {
+  font-size: 20px;
+  color: rgb(190, 147, 89);
+}
+body .main6 .main6_section3 .main6_div7 .main6_div8 h2 {
+  font-size: 75px;
+  font-weight: 600;
+  font-family: "Playfair Display", serif;
+  color: rgba(172, 170, 170, 0.932);
+  padding-bottom: 30px;
+}
+body .main6 .main6_section3 .main6_div7 .main6_div8 p {
+  color: whitesmoke;
+}
+body .main6 .main6_section3 .main6_div7 .main6_div9 {
+  padding-top: 20px;
+  margin-left: 0;
+  padding-right: 0;
+}
+body .main6 .main6_section3 .main6_div7 .main6_div9 .main6_div10 {
+  margin-left: 0;
+  margin-right: 0;
+  padding: 20px;
+}
+body .main6 .main6_section3 .main6_div7 .main6_div9 .main6_div10 p {
+  color: black;
+  cursor: pointer;
+  padding-top: 20px;
+  font-size: 19px;
+}
+body .main6 .main6_section3 .main6_div7 .main6_div9 .main6_div10 h4 {
+  color: rgb(190, 147, 89);
+  font-size: 35px;
+  font-family: "Playfair Display", serif;
+}
+body .main6 .main6_section3 .main6_div7 .main6_div9 .main6_div10 h6 {
+  color: white;
+  font-size: 18px;
+}
+body .main6 .main6_section3 .main6_div7 .main6_div9 .main6_div10 figure {
+  width: 100%;
+  cursor: pointer;
+}
+body .main6 .main6_section3 .main6_div7 .main6_div9 .main6_div10 figure img {
+  width: 25%;
+}
+body .main6 .main6_section3 .main6_div7 .main6_div9 .main6_div10 figure .image {
+  width: 20%;
+}
+body .main6 .main6_section4 {
+  min-height: 100vh;
+  height: auto;
+  background-image: url(../image/25.webp);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 {
+  padding-top: 60px;
+  margin-left: 0;
+  margin-right: 0;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div13 {
+  margin-left: 0;
+  margin-right: 0;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div13 figure {
+  width: 100%;
+  cursor: pointer;
+  padding-right: 0;
+  padding-left: 0;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div13 figure img {
+  width: 100%;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div13 .main6_div14 {
+  margin-top: 50px;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div13 .main6_div14 div {
+  border: 2px solid rgb(190, 147, 89);
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: 60px;
+  transition: 0.4s;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div13 .main6_div14 div a {
+  color: rgb(190, 147, 89);
+  padding: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  transition: 0.4s;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div13 .main6_div14 div:hover a {
+  color: aliceblue;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div15 {
+  padding-top: 45px;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div15 figure {
+  width: 100%;
+  cursor: pointer;
+  padding-right: 0;
+  padding-left: 0;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div15 figure img {
+  width: 50%;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div15 .main6_div16 ul li {
+  font-size: 18px;
+  padding: 15px 0;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div15 .main6_div16 ul li a {
+  color: rgba(245, 245, 245, 0.856);
+  transition: 0.4s;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div15 .main6_div16 ul li a:hover {
+  color: rgb(190, 147, 89);
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div15 .main6_div17 h6 {
+  color: rgb(190, 147, 89);
+  font-size: 14px;
+  font-weight: 600;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div15 .main6_div18 {
+  padding-top: 30px;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div15 .main6_div18 ul li {
+  color: rgba(255, 255, 255, 0.938);
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div15 .main6_div18 ul li a {
+  font-size: 20px;
+  transition: 0.3s;
+}
+body .main6 .main6_section4 .main6_div11 .main6_div12 .main6_div15 .main6_div18 ul li a:hover {
+  color: rgb(190, 147, 89);
+}/*# sourceMappingURL=global6.css.map */

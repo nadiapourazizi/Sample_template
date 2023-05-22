@@ -1,0 +1,296 @@
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 100%;
+  overflow-x: hidden;
+}
+body .main4 {
+  width: 100%;
+  overflow-x: hidden;
+}
+body .main4 .main4_section1 {
+  min-height: 80vh;
+  background-image: url(../image/51.jpg);
+  background-size: cover;
+  background-position: 100% center;
+  background-repeat: no-repeat;
+}
+body .main4 .main4_section1 .main4_div1 {
+  height: 100%;
+}
+body .main4 .main4_section1 .main4_div1 .main4_div2 h1 {
+  font-size: 75px;
+  font-weight: 600;
+  font-family: "Playfair Display", serif;
+  color: rgba(172, 170, 170, 0.932);
+  margin-top: 200px;
+}
+body .main4 .main4_section2 {
+  min-height: 200vh;
+  background-image: url(../image/5.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body .main4 .main4_section2 .main4_div3 {
+  padding-top: 100px;
+}
+body .main4 .main4_section2 .main4_div3 .main4_div4 h6 {
+  font-size: 20px;
+  color: rgb(190, 147, 89);
+}
+body .main4 .main4_section2 .main4_div3 .main4_div4 h2 {
+  font-size: 75px;
+  font-weight: 600;
+  font-family: "Playfair Display", serif;
+  color: rgba(172, 170, 170, 0.932);
+  padding-bottom: 30px;
+}
+body .main4 .main4_section2 .main4_div3 .main4_div5 {
+  padding-top: 20px;
+  margin-left: 0;
+  padding-right: 0;
+}
+body .main4 .main4_section2 .main4_div3 .main4_div5 .main4_div6 {
+  margin-left: 0;
+  margin-right: 0;
+  padding: 20px;
+}
+body .main4 .main4_section2 .main4_div3 .main4_div5 .main4_div6 p {
+  color: rgba(128, 128, 128, 0.678);
+  cursor: pointer;
+  padding-top: 20px;
+  font-size: 19px;
+}
+body .main4 .main4_section2 .main4_div3 .main4_div5 .main4_div6 h4 {
+  color: rgb(190, 147, 89);
+  font-size: 35px;
+  font-family: "Playfair Display", serif;
+}
+body .main4 .main4_section2 .main4_div3 .main4_div5 .main4_div6 h6 {
+  color: white;
+  font-size: 18px;
+}
+body .main4 .main4_section2 .main4_div3 .main4_div5 .main4_div6 figure {
+  width: 100%;
+  cursor: pointer;
+}
+body .main4 .main4_section2 .main4_div3 .main4_div5 .main4_div6 figure img {
+  width: 25%;
+}
+body .main4 .main4_section2 .main4_div3 .main4_div5 .main4_div6 figure .image {
+  width: 20%;
+}
+body .main4 .main4_section2 .main4_div3 .main4_div7 .main4_div8 {
+  border: 2px solid rgb(190, 147, 89);
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.4s;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+body .main4 .main4_section2 .main4_div3 .main4_div7 .main4_div8 a {
+  color: rgb(190, 147, 89);
+  padding: 30px;
+  font-size: 17px;
+  font-weight: 600;
+  transition: 0.4s;
+}
+body .main4 .main4_section2 .main4_div3 .main4_div7 .main4_div8:hover a {
+  color: aliceblue;
+}
+body .main4 .main4_section3 {
+  border-bottom: 4px solid rgb(190, 147, 89);
+  min-height: 90vh;
+  background-color: white;
+}
+body .main4 .main4_section3 .main4_div9 {
+  padding-top: 100px;
+}
+body .main4 .main4_section3 .main4_div9 .main4_div10 h6 {
+  font-size: 20px;
+  color: rgb(190, 147, 89);
+}
+body .main4 .main4_section3 .main4_div9 .main4_div10 h2 {
+  font-size: 75px;
+  font-weight: 600;
+  font-family: "Playfair Display", serif;
+  color: rgba(172, 170, 170, 0.932);
+  padding-bottom: 30px;
+}
+body .main4 .main4_section3 .main4_div9 .main4_div10 p {
+  color: whitesmoke;
+}
+body .main4 .main4_section3 .main4_div9 .main4_div11 {
+  padding-top: 20px;
+  margin-left: 0;
+  padding-right: 0;
+}
+body .main4 .main4_section3 .main4_div9 .main4_div11 .main4_div12 {
+  margin-left: 0;
+  margin-right: 0;
+  padding: 20px;
+}
+body .main4 .main4_section3 .main4_div9 .main4_div11 .main4_div12 p {
+  color: black;
+  cursor: pointer;
+  padding-top: 20px;
+}
+body .main4 .main4_section3 .main4_div9 .main4_div11 .main4_div12 figure {
+  width: 100%;
+  cursor: pointer;
+}
+body .main4 .main4_section3 .main4_div9 .main4_div11 .main4_div12 figure img {
+  width: 50%;
+}
+body .main4 .main4_section4 {
+  min-height: 110vh;
+  background-color: white;
+}
+body .main4 .main4_section4 .main4_div13 {
+  background-color: white;
+}
+body .main4 .main4_section4 .main4_div13 .main4_div14 {
+  padding-top: 10px;
+}
+body .main4 .main4_section4 .main4_div13 .main4_div14 h6 {
+  font-size: 20px;
+  padding-top: 40px;
+  color: rgb(190, 147, 89);
+}
+body .main4 .main4_section4 .main4_div13 .main4_div14 h2 {
+  font-size: 75px;
+  font-weight: 600;
+  font-family: "Playfair Display", serif;
+  color: rgba(172, 170, 170, 0.932);
+  padding-bottom: 30px;
+}
+body .main4 .main4_section4 .main4_div13 .main4_div15 {
+  padding-top: 40px;
+  margin-left: 0;
+  padding-right: 0;
+}
+body .main4 .main4_section4 .main4_div13 .main4_div15 .main4_div16 {
+  margin-left: 0;
+  margin-right: 0;
+}
+body .main4 .main4_section4 .main4_div13 .main4_div15 .main4_div16 figure {
+  width: 100%;
+  cursor: pointer;
+}
+body .main4 .main4_section4 .main4_div13 .main4_div15 .main4_div16 figure img {
+  width: 40%;
+  border-radius: 50%;
+}
+body .main4 .main4_section4 .main4_div13 .main4_div15 .main4_div16 p {
+  color: black;
+  cursor: pointer;
+}
+body .main4 .main4_section4 .main4_div13 .main4_div15 .main4_div16 h6 {
+  padding-top: 10px;
+  font-family: "Playfair Display", serif;
+  font-size: 23px;
+  font-weight: 600;
+  color: rgb(190, 147, 89);
+}
+body .main4 .main4_section5 {
+  min-height: 100vh;
+  height: auto;
+  background-image: url(../image/25.webp);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 {
+  padding-top: 60px;
+  margin-left: 0;
+  margin-right: 0;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div19 {
+  margin-left: 0;
+  margin-right: 0;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div19 figure {
+  width: 100%;
+  cursor: pointer;
+  padding-right: 0;
+  padding-left: 0;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div19 figure img {
+  width: 100%;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div19 .main4_div20 {
+  margin-top: 50px;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div19 .main4_div20 div {
+  border: 2px solid rgb(190, 147, 89);
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: 60px;
+  transition: 0.4s;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div19 .main4_div20 div a {
+  color: rgb(190, 147, 89);
+  padding: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  transition: 0.4s;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div19 .main4_div20 div:hover a {
+  color: aliceblue;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div21 {
+  padding-top: 45px;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div21 figure {
+  width: 100%;
+  cursor: pointer;
+  padding-right: 0;
+  padding-left: 0;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div21 figure img {
+  width: 50%;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div21 .main4_div22 ul li {
+  font-size: 18px;
+  padding: 15px 0;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div21 .main4_div22 ul li a {
+  color: rgba(245, 245, 245, 0.856);
+  transition: 0.4s;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div21 .main4_div22 ul li a:hover {
+  color: rgb(190, 147, 89);
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div21 .main4_div23 h6 {
+  color: rgb(190, 147, 89);
+  font-size: 14px;
+  font-weight: 600;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div21 .main4_div24 {
+  padding-top: 30px;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div21 .main4_div24 ul li {
+  color: rgba(255, 255, 255, 0.938);
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div21 .main4_div24 ul li a {
+  font-size: 20px;
+  transition: 0.3s;
+}
+body .main4 .main4_section5 .main4_div17 .main4_div18 .main4_div21 .main4_div24 ul li a:hover {
+  color: rgb(190, 147, 89);
+}/*# sourceMappingURL=global4.css.map */
